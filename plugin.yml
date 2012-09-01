@@ -1,0 +1,10 @@
+name: RecipeLookup
+main: me.meiamsome.recipelookup.RecipeLookup
+author: meiamsome
+description: Allows players to look up recipes
+version: 1.0.0
+commands:
+ recipe:
+  description: Allows players to look up recipes
+  usage: Correct usage is /recipe [item name] [recipe no.]
+  aliases: rc
